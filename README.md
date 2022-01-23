@@ -9,7 +9,7 @@ Social Projekt is a full fledged social media website which lets you post the ar
 
 ### Link to Live Project
 
-
+Link => https://social-projekt-07.herokuapp.com/
 
 
 ## Screenshots
