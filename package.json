@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Serge2233/social-projekt.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Serge2233/social-projekt/issues"
   },
-  "homepage": "",
+  "homepage": "https://social-projekt-07.herokuapp.com/",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",
